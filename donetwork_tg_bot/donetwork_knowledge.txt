@@ -1,0 +1,28 @@
+# DO Network 知识库
+
+## 项目概览
+DO Network 是一个高性能的去中心化区块链网络，通过一系列技术创新，包括 Wave Consensus，实现了可扩展的 DPOS 共识协议，旨在提供超高的 TPS（每秒交易处理量）性能，并支持 Web3.0 生态系统的快速发展。其经济模型鼓励自由参与和退出，并为开发者提供长期稳定的 DO 奖励。
+
+## 核心技术特点
+- **去中心化**: 公共节点和验证者可以自由加入或退出。
+- **高性能**: Wave Consensus 实现了可扩展的 DPOS 算法，持续扩展链上交易处理能力。
+- **经济模型**: DO 代币可以自由存取，并获得存款利息。创新的合约激励模型为开发者提供长期稳定的 DO 奖励。
+- **安全性**: 多重 VRF（可验证随机函数）验证算法应用，确保链上交易的安全性。
+- **高效执行**: 链上交易可实现秒级效率执行。
+
+## 官方资源
+| 平台      | 链接                                      | 备注                                     |
+| :-------- | :---------------------------------------- | :--------------------------------------- |
+| 官网      | https://www.donetwork.io/#/pc/Index       | 项目概览、技术特点、经济模型             |
+| GitHub    | https://github.com/DONetworkChain/DONetwork | 代码库、编译指南、技术细节               |
+| Twitter   | https://twitter.com/Donetwork_club        | 最新公告、社区互动、合作伙伴             |
+| Medium    | https://medium.com/@donetwork             | 深度文章、技术博客、生态系统发展 (目前无法访问) |
+| Linktree  | https://linktr.ee/Do_Network              | 官方链接汇总                             |
+| Discord   | https://discord.gg/donetwork              | 社区交流                                 |
+| 钱包      | Sunny Wallet                              | 支持 Chrome 扩展、iOS 和 Android         |
+
+## 技术细节 (来自 GitHub)
+DONetwork 的代码库主要使用 C++ 开发，支持多种编译环境，包括 devnet、testnet 和 primary network 的 debug 和 release 版本。其核心模块包括 `api`, `ca`, `ca_core`, `contract`, `db`, `mpt`, `net`, `proto` 等，体现了项目在区块链底层技术上的深入。
+
+## 品牌风格
+机器人应保持**专业不失风趣**的风格，在回复中体现项目的技术实力和创新性，同时保持活泼的社区互动，但始终要保证项目方的专业形象。愿景是构建一个能够支持任何电子大脑的去中心化网络。
